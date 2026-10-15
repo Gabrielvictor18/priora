@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "file": "ABERTURA.png",
+    "asset": "./assets/exact/s01.png"
+  },
+  {
+    "id": 2,
+    "file": "ALAGAMENTO - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s02.png"
+  },
+  {
+    "id": 3,
+    "file": "ALAGAMENTO - ENVIO.png",
+    "asset": "./assets/exact/s03.png"
+  },
+  {
+    "id": 4,
+    "file": "ALAGAMENTO HIST#U00d3RICO.png",
+    "asset": "./assets/exact/s04.png"
+  },
+  {
+    "id": 5,
+    "file": "ALAGAMENTO.png",
+    "asset": "./assets/exact/s05.png"
+  },
+  {
+    "id": 6,
+    "file": "BURACO - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s06.png"
+  },
+  {
+    "id": 7,
+    "file": "BURACO - ENVIO.png",
+    "asset": "./assets/exact/s07.png"
+  },
+  {
+    "id": 8,
+    "file": "BURACO HIST#U00d3RICO.png",
+    "asset": "./assets/exact/s08.png"
+  },
+  {
+    "id": 9,
+    "file": "BURACO.png",
+    "asset": "./assets/exact/s09.png"
+  },
+  {
+    "id": 10,
+    "file": "CONCLUIDA - ESGOTO.png",
+    "asset": "./assets/exact/s10.png"
+  },
+  {
+    "id": 11,
+    "file": "CONCLUIDA - LIXO.png",
+    "asset": "./assets/exact/s11.png"
+  },
+  {
+    "id": 12,
+    "file": "EM AN#U00c1LISE - ALAGAMENTO-1.png",
+    "asset": "./assets/exact/s12.png"
+  },
+  {
+    "id": 13,
+    "file": "EM AN#U00c1LISE - ALAGAMENTO.png",
+    "asset": "./assets/exact/s13.png"
+  },
+  {
+    "id": 14,
+    "file": "EM AN#U00c1LISE - BURACO-1.png",
+    "asset": "./assets/exact/s14.png"
+  },
+  {
+    "id": 15,
+    "file": "EM AN#U00c1LISE - BURACO-2.png",
+    "asset": "./assets/exact/s15.png"
+  },
+  {
+    "id": 16,
+    "file": "EM AN#U00c1LISE - BURACO-3.png",
+    "asset": "./assets/exact/s16.png"
+  },
+  {
+    "id": 17,
+    "file": "EM AN#U00c1LISE - BURACO.png",
+    "asset": "./assets/exact/s17.png"
+  },
+  {
+    "id": 18,
+    "file": "EM AN#U00c1LISE - ESGOTO-1.png",
+    "asset": "./assets/exact/s18.png"
+  },
+  {
+    "id": 19,
+    "file": "EM AN#U00c1LISE - ESGOTO-2.png",
+    "asset": "./assets/exact/s19.png"
+  },
+  {
+    "id": 20,
+    "file": "EM AN#U00c1LISE - ESGOTO-3.png",
+    "asset": "./assets/exact/s20.png"
+  },
+  {
+    "id": 21,
+    "file": "EM AN#U00c1LISE - ESGOTO.png",
+    "asset": "./assets/exact/s21.png"
+  },
+  {
+    "id": 22,
+    "file": "EM AN#U00c1LISE - GALHO-1.png",
+    "asset": "./assets/exact/s22.png"
+  },
+  {
+    "id": 23,
+    "file": "EM AN#U00c1LISE - GALHO.png",
+    "asset": "./assets/exact/s23.png"
+  },
+  {
+    "id": 24,
+    "file": "EM AN#U00c1LISE - ILUMINA#U00c7#U00c3O-1.png",
+    "asset": "./assets/exact/s24.png"
+  },
+  {
+    "id": 25,
+    "file": "EM AN#U00c1LISE - ILUMINA#U00c7#U00c3O.png",
+    "asset": "./assets/exact/s25.png"
+  },
+  {
+    "id": 26,
+    "file": "EM AN#U00c1LISE - LIXO-1.png",
+    "asset": "./assets/exact/s26.png"
+  },
+  {
+    "id": 27,
+    "file": "EM AN#U00c1LISE - LIXO-2.png",
+    "asset": "./assets/exact/s27.png"
+  },
+  {
+    "id": 28,
+    "file": "EM AN#U00c1LISE - LIXO-3.png",
+    "asset": "./assets/exact/s28.png"
+  },
+  {
+    "id": 29,
+    "file": "EM AN#U00c1LISE - LIXO.png",
+    "asset": "./assets/exact/s29.png"
+  },
+  {
+    "id": 30,
+    "file": "ESGOTO - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s30.png"
+  },
+  {
+    "id": 31,
+    "file": "ESGOTO - ENVIO.png",
+    "asset": "./assets/exact/s31.png"
+  },
+  {
+    "id": 32,
+    "file": "ESGOTO HIST#U00d3RICO.png",
+    "asset": "./assets/exact/s32.png"
+  },
+  {
+    "id": 33,
+    "file": "ESGOTO.png",
+    "asset": "./assets/exact/s33.png"
+  },
+  {
+    "id": 34,
+    "file": "GALHO - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s34.png"
+  },
+  {
+    "id": 35,
+    "file": "GALHO - ENVIO.png",
+    "asset": "./assets/exact/s35.png"
+  },
+  {
+    "id": 36,
+    "file": "GALHO.png",
+    "asset": "./assets/exact/s36.png"
+  },
+  {
+    "id": 37,
+    "file": "ILUMINA#U00c7#U00c3O - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s37.png"
+  },
+  {
+    "id": 38,
+    "file": "ILUMINA#U00c7#U00c3O - ENVIO.png",
+    "asset": "./assets/exact/s38.png"
+  },
+  {
+    "id": 39,
+    "file": "ILUMINA#U00c7#U00c3O HIST#U00d3RICO-1.png",
+    "asset": "./assets/exact/s39.png"
+  },
+  {
+    "id": 40,
+    "file": "ILUMINA#U00c7#U00c3O HIST#U00d3RICO.png",
+    "asset": "./assets/exact/s40.png"
+  },
+  {
+    "id": 41,
+    "file": "ILUMINA#U00c7#U00c3O.png",
+    "asset": "./assets/exact/s41.png"
+  },
+  {
+    "id": 42,
+    "file": "LIXO - ENVIAR FOTO.png",
+    "asset": "./assets/exact/s42.png"
+  },
+  {
+    "id": 43,
+    "file": "LIXO - ENVIO.png",
+    "asset": "./assets/exact/s43.png"
+  },
+  {
+    "id": 44,
+    "file": "LIXO HIST#U00d3RICO.png",
+    "asset": "./assets/exact/s44.png"
+  },
+  {
+    "id": 45,
+    "file": "LIXO.png",
+    "asset": "./assets/exact/s45.png"
+  },
+  {
+    "id": 46,
+    "file": "MENU-1.png",
+    "asset": "./assets/exact/s46.png"
+  },
+  {
+    "id": 47,
+    "file": "MENU-2.png",
+    "asset": "./assets/exact/s47.png"
+  },
+  {
+    "id": 48,
+    "file": "MENU.png",
+    "asset": "./assets/exact/s48.png"
+  },
+  {
+    "id": 49,
+    "file": "NOTIFICA#U00c7#U00d5ES.png",
+    "asset": "./assets/exact/s49.png"
+  },
+  {
+    "id": 50,
+    "file": "RELATAR PROBLEMA -CATEGORIA.png",
+    "asset": "./assets/exact/s50.png"
+  },
+  {
+    "id": 51,
+    "file": "RELATAR PROBLEMA.png",
+    "asset": "./assets/exact/s51.png"
+  }
+]

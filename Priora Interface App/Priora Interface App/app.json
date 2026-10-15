@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Priora",
+    "slug": "priora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#FFFFFF",
+      "image": "./assets/logo.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.priora.gestaourbana"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/logo.png"
+      },
+      "package": "com.priora.gestaourbana"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permita que o Priora acesse suas fotos para anexar uma evidência.",
+          "cameraPermission": "Permita que o Priora use a câmera para fotografar uma ocorrência.",
+          "microphonePermission": false
+        }
+      ]
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}
